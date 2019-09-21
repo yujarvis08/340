@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DictionaryTester" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-09-17T05:04:36" hostname="DESKTOP-F41IAA6" time="0.022">
+  <properties/>
+  <testcase name="testEmpty()" classname="DictionaryTester" time="0.009"/>
+  <testcase name="testPlaceholder()" classname="DictionaryTester" time="0.008"/>
+  <testcase name="testExtraCredit()" classname="DictionaryTester" time="0.0"/>
+  <testcase name="testTypeOfSpeech()" classname="DictionaryTester" time="0.001"/>
+  <testcase name="testDistinct()" classname="DictionaryTester" time="0.001"/>
+  <testcase name="testMatchCase()" classname="DictionaryTester" time="0.001"/>
+  <testcase name="testErrors()" classname="DictionaryTester" time="0.0"/>
+  <system-out><![CDATA[Assuming the implementations were not hard-coded specifically for the test cases
+Total Score: 35
+Total Extra Credit: 3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
